@@ -85,14 +85,14 @@
       "role": "drawing",
       "required": true,
       "language": "zh",
-      "sha256": "ec7f61b94ec46cadd5835decedb200067b58b419b3b1aa7efbfc25b5f8fa13a0"
+      "sha256": "204b0914bb17913d81419f1c01e2f0019109e0618cea4a9d657830cbf3c0deea"
     },
     {
       "path": "drawings/a3-booklet.pdf",
       "role": "drawing",
       "required": true,
       "language": "zh",
-      "sha256": "e5d082a933b415383c1e92e4d34231e80a1c9b68a0e3a1d21d8382f4872fe429"
+      "sha256": "e7a2a6e48fa0a8ec1c68e39be059cdfa6e9991d2450833930eb9b8e37b31a7e4"
     },
     {
       "path": "geometry/buildings.geojson",
